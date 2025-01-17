@@ -16,7 +16,6 @@ mindmap2: false
 ### 1. 安装 Cursor
 
 ![1737107699213](https://raw.githubusercontent.com/Jehuge/jehuge.github.io/refs/heads/master/_posts/image/2025-01-04-/1737107699213.png)
-
 ### 2. 安装插件
 
 ![1737107737251](https://raw.githubusercontent.com/Jehuge/jehuge.github.io/refs/heads/master/_posts/image/2025-01-04-/1737107737251.png)
