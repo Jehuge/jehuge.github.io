@@ -16,6 +16,7 @@ mindmap2: false
 ### 1. 安装 Cursor
 
 ![1737107699213](https://raw.githubusercontent.com/Jehuge/jehuge.github.io/refs/heads/master/_posts/image/2025-01-04-/1737107699213.png)
+
 ### 2. 安装插件
 
 ![1737107737251](https://raw.githubusercontent.com/Jehuge/jehuge.github.io/refs/heads/master/_posts/image/2025-01-04-/1737107737251.png)
@@ -35,6 +36,6 @@ c.	运行项目配置文件如下，点击 uniapp run 即可运行至微信开�
 ![1737108262281](https://raw.githubusercontent.com/Jehuge/jehuge.github.io/refs/heads/master/_posts/image/2025-01-04-/1737108262281.png)
 
 ### 总结
+
 a.	Cursor 可以运行 uniapp 项目，和 vscode 一样，可以编写代码，运行项目，调试项目
 b.	Cursor 的AI可以更好编写代码，运行项目，调试项目
-
