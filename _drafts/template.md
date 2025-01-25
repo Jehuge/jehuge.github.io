@@ -13,3 +13,5 @@ mindmap2: false
 ---
 
 Content here
+
+![20250125101805](https://cdn.jsdelivr.net/gh/Jehuge/blogimg/img/20250125101805.png)
