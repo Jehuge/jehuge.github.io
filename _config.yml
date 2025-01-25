@@ -5,13 +5,13 @@ baseurl:
 url: https://jehuge.github.io
 date_format: "ordinal"
 title: 叡のblog
-subtitle: ""
-description: "叡的个人博客"
-keywords: 叡の, Jehuge
+subtitle: "技术分享与生活随笔"
+description: "叡的个人技术博客，分享编程经验与生活感悟"
+keywords: 叡の, Jehuge, 技术博客, 编程
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2025
+since: 2024
 # 源码仓库，请替换成自己的
 repository: jehuge/jehuge.github.io
 # 对 css 和 js 资源的 cdn 加速配置
@@ -28,7 +28,7 @@ components:
         hide-platforms: qq,facebook
     # 不蒜子访问统计
     busuanzi:
-        enabled: false
+        enabled: true
         start_date: 2024-05-03
     # My Popular Repositories
     side_bar_repo:
@@ -47,7 +47,7 @@ components:
         view: cate
     # 图片灯箱效果功能
     fancybox:
-        enabled: false
+        enabled: true
 # 压缩页面内容
 compress_html:
   clippings: all
@@ -186,9 +186,13 @@ comments_provider: giscus
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
     repo: Jehuge/jehuge.github.io
-    repo-id: 
+    repo-id: R_kgDONly32Q
     category: Announcements
     category-id: DIC_kwDONly32c4CmIVL
+    mapping: pathname    # 建议添加此项
+    reactions-enabled: 1 # 建议添加此项
+    emit-metadata: 0    # 建议添加此项
+    theme: light       # 建议添加此项
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
@@ -196,9 +200,7 @@ lazy_load_disqus : false
 #      Search      #
 # ---------------- #
 simple_jekyll_search:
-    # 是否支持全文搜索
-    fulltext: false
-    # 最多显示多少条搜索结果
+    fulltext: true    # 建议开启全文搜索
     limit: 10
 
 # ---------------- #
