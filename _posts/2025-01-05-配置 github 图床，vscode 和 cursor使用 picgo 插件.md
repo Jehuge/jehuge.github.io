@@ -34,3 +34,6 @@ mindmap2: false
     ![20250118100321](https://raw.gitmirror.com/Jehuge/blogimg/master/img/20250118100321.png)
 使用快捷键上传图片
     ![20250118100414](https://raw.gitmirror.com/Jehuge/blogimg/master/img/20250118100414.png)
+
+### 5. 使用 gitmirror 加速图床
+![20250125112410](https://raw.gitmirror.com/Jehuge/blogimg/refs/heads/main/blogimg/20250125112410.png)
