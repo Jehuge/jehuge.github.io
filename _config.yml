@@ -17,7 +17,7 @@ repository: jehuge/jehuge.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
-        enabled: true
+        enabled: false
 
 # 可选组件配置
 components:
@@ -28,7 +28,7 @@ components:
         hide-platforms: qq,facebook
     # 不蒜子访问统计
     busuanzi:
-        enabled: true
+        enabled: false
         start_date: 2024-05-03
     # My Popular Repositories
     side_bar_repo:
